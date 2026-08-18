@@ -224,12 +224,14 @@ st.markdown("""
 # FIND DATA
 # ============================================================
 
-ROOT = Path(__file__).resolve().parent.parent
+APP_DIR = Path(__file__).resolve().parent
 
 files = [
-    ROOT / "data" / "processed" / "cleaned_south_korea.csv",
-    ROOT / "Atlantic_South_Korea.csv",
-    ROOT / "data" / "cleaned_south_korea.csv"
+    APP_DIR / "cleaned_south_korea.csv",
+    APP_DIR / "Atlantic_South_Korea.csv",
+    APP_DIR / "data" / "processed" / "cleaned_south_korea.csv",
+    APP_DIR.parent / "data" / "processed" / "cleaned_south_korea.csv",
+    APP_DIR.parent / "Atlantic_South_Korea.csv"
 ]
 
 DATA_FILE = next(
