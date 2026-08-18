@@ -1,0 +1,542 @@
+song_id,song,artist,first_entry_date,last_entry_date,chart_days,reentry_count,reentry_dates,exit_gap_days
+"Our Blues, Our Life - Lim Young Woong","Our Blues, Our Life",Lim Young Woong,2024-05-18,2025-08-14,361,32,"2024-07-10, 2024-07-31, 2024-08-20, 2024-08-24, 2024-09-03, 2024-09-10, 2024-09-29, 2024-10-07, 2024-10-13, 2025-03-02, 2025-03-15, 2025-03-26, 2025-04-24, 2025-04-29, 2025-05-02, 2025-05-07, 2025-05-10, 2025-05-16, 2025-05-20, 2025-06-10, 2025-06-21, 2025-06-24, 2025-06-30, 2025-07-04, 2025-07-06, 2025-07-09, 2025-07-15, 2025-07-22, 2025-08-05, 2025-08-09, 2025-08-12, 2025-08-14","5, 4, 2, 3, 4, 3, 1, 1, 3, 1, 1, 1, 1, 1, 1, 2, 1, 1, 1, 19, 9, 2, 2, 2, 1, 1, 4, 1, 11, 1, 2, 1"
+Ditto - NewJeans,Ditto,NewJeans,2024-05-18,2025-11-05,374,27,"2024-11-08, 2024-11-21, 2024-11-23, 2025-02-16, 2025-03-11, 2025-03-18, 2025-03-26, 2025-04-01, 2025-04-27, 2025-05-17, 2025-05-20, 2025-05-31, 2025-07-12, 2025-07-20, 2025-07-24, 2025-07-26, 2025-08-03, 2025-08-10, 2025-08-14, 2025-09-13, 2025-09-16, 2025-09-25, 2025-10-05, 2025-10-12, 2025-10-18, 2025-10-23, 2025-11-05","4, 1, 1, 3, 21, 5, 7, 5, 25, 1, 1, 10, 1, 2, 3, 1, 3, 6, 2, 27, 1, 4, 9, 3, 1, 4, 12"
+A bientot - Lim Young Woong,A bientot,Lim Young Woong,2024-05-18,2025-07-20,280,25,"2024-06-09, 2024-06-22, 2024-07-11, 2024-07-13, 2024-07-17, 2024-07-23, 2024-08-04, 2024-08-06, 2024-08-28, 2024-09-03, 2024-09-10, 2024-09-19, 2024-09-23, 2024-09-30, 2024-10-09, 2024-10-13, 2025-03-02, 2025-03-15, 2025-03-26, 2025-04-05, 2025-04-19, 2025-04-24, 2025-05-07, 2025-06-24, 2025-07-18","1, 1, 6, 1, 3, 4, 9, 1, 15, 5, 5, 4, 1, 2, 3, 3, 1, 1, 1, 1, 1, 1, 10, 47, 22"
+New Jeans - NewJeans,New Jeans,NewJeans,2024-07-09,2025-10-21,279,24,"2024-11-03, 2024-12-28, 2025-01-01, 2025-01-04, 2025-01-06, 2025-01-09, 2025-01-13, 2025-02-10, 2025-02-12, 2025-02-14, 2025-02-28, 2025-03-02, 2025-03-08, 2025-03-16, 2025-03-18, 2025-03-20, 2025-03-22, 2025-03-26, 2025-04-27, 2025-07-12, 2025-08-11, 2025-08-14, 2025-08-18, 2025-10-21","4, 54, 1, 1, 1, 2, 3, 25, 1, 1, 9, 1, 1, 5, 1, 1, 1, 1, 6, 1, 7, 1, 1, 62"
+Interlude : Dive - Jimin,Interlude : Dive,Jimin,2024-05-18,2025-06-29,363,22,"2024-05-24, 2024-07-30, 2024-09-14, 2024-09-29, 2024-10-06, 2024-10-12, 2024-10-14, 2024-10-17, 2024-10-22, 2025-01-30, 2025-02-02, 2025-02-04, 2025-02-08, 2025-02-14, 2025-02-24, 2025-03-02, 2025-03-06, 2025-03-15, 2025-03-26, 2025-06-05, 2025-06-12, 2025-06-28","3, 1, 1, 1, 6, 2, 1, 1, 1, 2, 1, 1, 1, 2, 2, 1, 3, 1, 1, 6, 3, 4"
+Hype Boy - NewJeans,Hype Boy,NewJeans,2024-05-18,2025-10-13,321,21,"2024-10-22, 2024-12-11, 2024-12-30, 2025-01-04, 2025-02-10, 2025-03-26, 2025-03-30, 2025-04-01, 2025-04-04, 2025-04-11, 2025-04-27, 2025-05-27, 2025-07-12, 2025-08-14, 2025-08-31, 2025-09-07, 2025-09-14, 2025-09-16, 2025-09-23, 2025-09-29, 2025-10-13","1, 49, 18, 4, 25, 43, 3, 1, 1, 6, 10, 1, 1, 1, 3, 6, 1, 1, 2, 4, 12"
+Rainbow - Lim Young Woong,Rainbow,Lim Young Woong,2024-05-18,2025-08-12,403,20,"2024-07-08, 2024-07-10, 2024-07-31, 2024-09-01, 2024-09-10, 2025-03-02, 2025-03-15, 2025-03-26, 2025-06-04, 2025-06-07, 2025-06-16, 2025-06-18, 2025-06-21, 2025-06-24, 2025-06-30, 2025-07-12, 2025-07-15, 2025-07-29, 2025-08-04, 2025-08-12","3, 1, 4, 1, 1, 1, 1, 1, 12, 2, 4, 1, 2, 2, 1, 1, 1, 4, 4, 2"
+ETA - NewJeans,ETA,NewJeans,2024-07-23,2025-11-05,339,19,"2024-11-23, 2024-11-30, 2024-12-27, 2025-02-23, 2025-03-02, 2025-03-15, 2025-03-26, 2025-04-07, 2025-04-18, 2025-04-27, 2025-05-27, 2025-07-08, 2025-07-14, 2025-07-24, 2025-10-09, 2025-10-18, 2025-10-20, 2025-10-26, 2025-11-05","8, 1, 2, 1, 1, 1, 1, 1, 1, 8, 1, 2, 5, 7, 76, 2, 1, 4, 9"
+Cruel Summer - Taylor Swift,Cruel Summer,Taylor Swift,2024-07-02,2025-09-18,249,17,"2024-07-07, 2024-10-04, 2024-10-20, 2024-10-24, 2024-12-28, 2025-03-02, 2025-03-15, 2025-03-26, 2025-04-26, 2025-06-12, 2025-06-17, 2025-07-31, 2025-08-07, 2025-08-14, 2025-08-25, 2025-08-31, 2025-09-18","2, 4, 11, 2, 63, 1, 1, 1, 1, 45, 1, 39, 2, 1, 1, 3, 17"
+Somebody - Jung Kook,Somebody,Jung Kook,2024-11-04,2025-03-10,61,16,"2024-12-06, 2024-12-10, 2024-12-12, 2024-12-16, 2024-12-21, 2025-01-25, 2025-01-28, 2025-02-02, 2025-02-08, 2025-02-10, 2025-02-13, 2025-02-17, 2025-02-26, 2025-03-02, 2025-03-07, 2025-03-10","1, 1, 1, 1, 4, 34, 2, 1, 5, 1, 2, 2, 8, 1, 1, 1"
+OMG - NewJeans,OMG,NewJeans,2024-05-18,2025-10-14,317,15,"2024-12-02, 2024-12-28, 2025-01-28, 2025-02-01, 2025-02-04, 2025-02-10, 2025-02-14, 2025-04-01, 2025-04-28, 2025-05-20, 2025-06-01, 2025-07-12, 2025-07-24, 2025-08-17, 2025-10-13","34, 3, 1, 2, 2, 5, 1, 41, 26, 1, 9, 1, 2, 16, 54"
+Perfect Night - LE SSERAFIM,Perfect Night,LE SSERAFIM,2024-10-29,2025-10-21,276,14,"2025-03-02, 2025-03-15, 2025-03-26, 2025-05-13, 2025-05-20, 2025-05-23, 2025-06-01, 2025-06-03, 2025-06-14, 2025-08-10, 2025-08-14, 2025-08-25, 2025-08-28, 2025-09-01","1, 1, 1, 2, 5, 2, 6, 1, 2, 50, 1, 5, 2, 3"
+Love Always Run Away - Lim Young Woong,Love Always Run Away,Lim Young Woong,2024-05-18,2025-02-20,134,14,"2024-05-23, 2024-05-25, 2024-05-30, 2024-06-02, 2024-06-05, 2024-06-09, 2024-06-13, 2024-08-09, 2024-08-11, 2024-10-02, 2024-10-14, 2024-10-21, 2025-02-12, 2025-02-19","4, 1, 4, 1, 1, 1, 2, 56, 1, 51, 10, 5, 2, 6"
+Christmas Love - Jimin,Christmas Love,Jimin,2024-06-18,2024-12-28,29,14,"2024-06-21, 2024-11-05, 2024-11-08, 2024-11-10, 2024-11-18, 2024-11-22, 2024-11-24, 2024-11-28, 2024-12-02, 2024-12-05, 2024-12-09, 2024-12-12, 2024-12-17, 2024-12-20","2, 135, 1, 1, 6, 3, 1, 3, 3, 1, 3, 1, 4, 1"
+Closer to You (feat. Major Lazer) - Jung Kook,Closer to You (feat. Major Lazer),Jung Kook,2024-11-04,2025-06-08,60,13,"2024-12-05, 2024-12-16, 2024-12-20, 2024-12-29, 2025-01-05, 2025-01-10, 2025-01-12, 2025-01-16, 2025-02-25, 2025-03-02, 2025-03-07, 2025-03-16, 2025-06-08","1, 1, 3, 7, 6, 4, 1, 3, 39, 1, 1, 8, 82"
+You Were Beautiful - DAY6,You Were Beautiful,DAY6,2025-03-26,2025-11-26,60,13,"2025-04-14, 2025-04-19, 2025-09-16, 2025-10-06, 2025-10-08, 2025-10-14, 2025-10-21, 2025-10-26, 2025-10-28, 2025-11-02, 2025-11-07, 2025-11-23, 2025-11-26","18, 1, 148, 1, 1, 5, 1, 2, 1, 3, 1, 2, 2"
+I Love You - Lim Young Woong,I Love You,Lim Young Woong,2024-05-19,2025-03-09,150,12,"2024-05-30, 2024-06-03, 2024-06-10, 2024-06-13, 2024-09-25, 2024-10-17, 2024-10-22, 2025-02-18, 2025-02-23, 2025-02-26, 2025-03-04, 2025-03-09","2, 2, 3, 1, 102, 20, 3, 2, 2, 2, 3, 3"
+Who (Funky Remix) - Jimin,Who (Funky Remix),Jimin,2025-07-25,2025-11-27,82,12,"2025-08-14, 2025-08-17, 2025-08-20, 2025-09-22, 2025-09-27, 2025-10-01, 2025-10-16, 2025-10-19, 2025-10-27, 2025-11-03, 2025-11-06, 2025-11-20","1, 2, 2, 28, 2, 2, 1, 1, 1, 1, 1, 2"
+Who (Beautiful Mind Remix) - Jimin,Who (Beautiful Mind Remix),Jimin,2025-07-25,2025-11-27,78,12,"2025-08-05, 2025-08-17, 2025-08-20, 2025-08-23, 2025-09-22, 2025-09-27, 2025-09-30, 2025-10-19, 2025-10-27, 2025-11-04, 2025-11-06, 2025-11-20","1, 4, 2, 1, 29, 2, 1, 1, 1, 2, 1, 3"
+London Boy - Lim Young Woong,London Boy,Lim Young Woong,2024-05-18,2025-11-19,520,11,"2025-03-02, 2025-03-15, 2025-03-26, 2025-07-12, 2025-08-14, 2025-10-15, 2025-11-05, 2025-11-08, 2025-11-13, 2025-11-16, 2025-11-19","1, 1, 1, 1, 1, 1, 17, 2, 3, 1, 2"
+Face-off - Jimin,Face-off,Jimin,2024-05-18,2025-07-20,404,11,"2025-03-02, 2025-03-15, 2025-03-26, 2025-05-31, 2025-06-02, 2025-06-05, 2025-06-09, 2025-06-26, 2025-07-01, 2025-07-06, 2025-07-19","1, 1, 1, 1, 1, 2, 1, 2, 1, 2, 12"
+EASY - LE SSERAFIM,EASY,LE SSERAFIM,2025-02-21,2025-08-31,140,11,"2025-03-02, 2025-03-15, 2025-03-26, 2025-06-29, 2025-08-03, 2025-08-08, 2025-08-10, 2025-08-14, 2025-08-24, 2025-08-26, 2025-08-29","1, 1, 1, 5, 34, 4, 1, 1, 2, 1, 1"
+Please Don't Change (feat. DJ Snake) - Jung Kook,Please Don't Change (feat. DJ Snake),Jung Kook,2024-11-04,2025-03-15,101,11,"2024-12-23, 2024-12-28, 2025-01-01, 2025-01-21, 2025-01-23, 2025-01-26, 2025-02-03, 2025-02-05, 2025-02-13, 2025-03-02, 2025-03-15","1, 4, 1, 4, 1, 1, 7, 1, 5, 1, 5"
+Attention - NewJeans,Attention,NewJeans,2024-05-18,2025-06-29,151,10,"2024-07-07, 2024-09-01, 2024-09-15, 2024-09-28, 2025-04-28, 2025-05-14, 2025-05-19, 2025-06-01, 2025-06-14, 2025-06-28","2, 1, 10, 1, 210, 2, 4, 12, 5, 10"
+My Love Mine All Mine - Mitski,My Love Mine All Mine,Mitski,2024-12-17,2025-03-30,81,10,"2024-12-23, 2024-12-28, 2025-01-09, 2025-02-14, 2025-03-02, 2025-03-15, 2025-03-19, 2025-03-22, 2025-03-27, 2025-03-30","2, 4, 2, 1, 4, 1, 3, 1, 4, 1"
+If We Ever Meet Again - Lim Young Woong,If We Ever Meet Again,Lim Young Woong,2024-05-18,2025-10-11,502,9,"2024-07-30, 2025-03-02, 2025-03-15, 2025-03-26, 2025-05-29, 2025-07-12, 2025-08-14, 2025-10-01, 2025-10-07","1, 1, 1, 1, 2, 1, 1, 1, 1"
+Drama - aespa,Drama,aespa,2024-11-11,2025-10-12,222,9,"2025-03-02, 2025-03-15, 2025-03-26, 2025-04-07, 2025-04-20, 2025-05-03, 2025-05-11, 2025-07-12, 2025-10-12","1, 1, 1, 1, 2, 12, 1, 8, 87"
+Get A Guitar - RIIZE,Get A Guitar,RIIZE,2024-09-06,2025-04-24,188,9,"2024-12-06, 2024-12-23, 2024-12-28, 2025-03-02, 2025-03-15, 2025-03-26, 2025-04-06, 2025-04-12, 2025-04-24","19, 2, 3, 1, 1, 1, 7, 1, 8"
+Time of Our Life -Japanese ver.- - Japanese ver. - DAY6,Time of Our Life -Japanese ver.- - Japanese ver.,DAY6,2025-03-26,2025-11-27,102,9,"2025-04-01, 2025-04-14, 2025-04-23, 2025-04-25, 2025-06-03, 2025-08-14, 2025-09-05, 2025-10-06, 2025-10-08","2, 9, 2, 1, 37, 71, 21, 1, 1"
+Who (Instrumental) - Jimin,Who (Instrumental),Jimin,2025-07-25,2025-11-27,90,9,"2025-08-14, 2025-08-23, 2025-09-22, 2025-09-26, 2025-09-30, 2025-11-04, 2025-11-06, 2025-11-18, 2025-11-20","1, 1, 28, 1, 1, 1, 1, 1, 1"
+Love Letter - Lim Young Woong,Love Letter,Lim Young Woong,2024-11-01,2025-02-07,75,9,"2024-11-09, 2024-12-23, 2024-12-28, 2025-01-07, 2025-01-18, 2025-01-22, 2025-01-27, 2025-02-01, 2025-02-07","6, 2, 3, 1, 1, 1, 4, 1, 5"
+If I have you only (My love X Nerd Connection) - Nerd Connection,If I have you only (My love X Nerd Connection),Nerd Connection,2025-04-02,2025-10-22,56,9,"2025-04-09, 2025-04-12, 2025-04-18, 2025-09-02, 2025-09-07, 2025-09-09, 2025-09-15, 2025-09-29, 2025-10-22","6, 2, 1, 128, 3, 1, 4, 2, 1"
+Promise - Jimin,Promise,Jimin,2024-05-18,2024-07-12,35,9,"2024-05-28, 2024-05-30, 2024-06-02, 2024-06-08, 2024-06-10, 2024-06-28, 2024-07-03, 2024-07-07, 2024-07-12","7, 1, 2, 5, 1, 1, 1, 2, 1"
+Like Crazy (Deep House Remix) - Jimin,Like Crazy (Deep House Remix),Jimin,2024-05-19,2024-07-09,28,9,"2024-05-28, 2024-05-30, 2024-06-01, 2024-06-08, 2024-06-10, 2024-06-20, 2024-06-27, 2024-07-03, 2024-07-09","7, 1, 1, 4, 1, 2, 2, 1, 5"
+Grain of Sand - Lim Young Woong,Grain of Sand,Lim Young Woong,2024-06-08,2025-11-22,515,8,"2025-03-02, 2025-03-15, 2025-03-26, 2025-07-12, 2025-08-14, 2025-10-22, 2025-11-03, 2025-11-05","1, 1, 1, 1, 1, 1, 11, 1"
+Do or Die - Lim Young Woong,Do or Die,Lim Young Woong,2024-10-10,2025-11-19,388,8,"2025-03-02, 2025-03-15, 2025-03-26, 2025-07-12, 2025-08-14, 2025-10-22, 2025-11-03, 2025-11-19","1, 1, 1, 1, 1, 1, 10, 2"
+Left and Right (Feat. Jung Kook of BTS) - Charlie Puth,Left and Right (Feat. Jung Kook of BTS),Charlie Puth,2024-05-18,2025-09-15,226,8,"2024-10-26, 2024-11-28, 2024-12-28, 2025-01-21, 2025-01-28, 2025-02-10, 2025-08-18, 2025-08-23","2, 28, 26, 1, 3, 11, 188, 1"
+T.B.H - QWER,T.B.H,QWER,2025-04-06,2025-10-18,155,8,"2025-07-12, 2025-08-14, 2025-08-25, 2025-09-19, 2025-09-29, 2025-10-10, 2025-10-15, 2025-10-17","1, 1, 3, 21, 9, 2, 3, 1"
+Who (Shibuyakei Remix) - Jimin,Who (Shibuyakei Remix),Jimin,2025-07-25,2025-11-27,89,8,"2025-08-14, 2025-09-22, 2025-09-27, 2025-09-30, 2025-10-19, 2025-11-04, 2025-11-06, 2025-11-20","1, 29, 2, 1, 1, 1, 1, 1"
+Too Sad to Dance - Jung Kook,Too Sad to Dance,Jung Kook,2024-11-04,2025-03-23,42,8,"2024-12-04, 2024-12-09, 2024-12-14, 2024-12-16, 2024-12-23, 2025-03-17, 2025-03-19, 2025-03-21","1, 4, 1, 1, 6, 83, 1, 1"
+Like Crazy (UK Garage Remix) - Jimin,Like Crazy (UK Garage Remix),Jimin,2024-05-19,2024-07-03,25,8,"2024-05-28, 2024-06-01, 2024-06-03, 2024-06-08, 2024-06-10, 2024-06-20, 2024-06-27, 2024-07-03","7, 3, 1, 4, 1, 2, 2, 1"
+Super Shy - NewJeans,Super Shy,NewJeans,2024-07-09,2025-09-19,408,7,"2025-03-02, 2025-03-15, 2025-03-26, 2025-07-12, 2025-08-14, 2025-08-24, 2025-09-19","1, 1, 1, 1, 1, 1, 24"
+Alone - Jimin,Alone,Jimin,2024-05-18,2025-07-20,406,7,"2025-03-02, 2025-03-15, 2025-03-26, 2025-05-31, 2025-06-02, 2025-07-01, 2025-07-19","1, 1, 1, 1, 1, 1, 17"
+Slow Dancing - V,Slow Dancing,V,2024-09-10,2025-05-08,233,7,"2024-09-17, 2025-03-02, 2025-03-15, 2025-03-26, 2025-05-02, 2025-05-04, 2025-05-07","2, 1, 1, 1, 1, 1, 1"
+Hate You - Jung Kook,Hate You,Jung Kook,2024-11-04,2025-03-30,137,7,"2024-12-27, 2025-01-30, 2025-02-02, 2025-03-02, 2025-03-11, 2025-03-15, 2025-03-26","2, 2, 2, 1, 1, 1, 1"
+Bubble Gum - NewJeans,Bubble Gum,NewJeans,2025-05-26,2025-10-14,128,7,"2025-07-12, 2025-08-14, 2025-09-23, 2025-09-28, 2025-10-02, 2025-10-06, 2025-10-14","1, 1, 1, 1, 1, 2, 7"
+VIBE (feat. Jimin of BTS) - TAEYANG,VIBE (feat. Jimin of BTS),TAEYANG,2024-05-18,2024-11-11,69,7,"2024-05-24, 2024-06-06, 2024-07-20, 2024-10-26, 2024-10-29, 2024-11-02, 2024-11-04","1, 1, 4, 97, 2, 3, 1"
+Like Crazy - Jimin,Like Crazy,Jimin,2024-05-18,2025-11-27,553,6,"2025-03-02, 2025-03-15, 2025-03-26, 2025-07-12, 2025-08-14, 2025-09-05","1, 1, 1, 1, 1, 1"
+A Psalm of Life - Lim Young Woong,A Psalm of Life,Lim Young Woong,2024-06-06,2025-02-27,121,6,"2024-10-16, 2024-10-19, 2024-10-21, 2025-02-11, 2025-02-19, 2025-02-26","131, 2, 1, 1, 6, 5"
+FRI(END)S - V,FRI(END)S,V,2025-03-17,2025-07-22,120,6,"2025-03-26, 2025-06-28, 2025-06-30, 2025-07-12, 2025-07-17, 2025-07-22","1, 2, 1, 1, 2, 1"
+Welcome to the Show - DAY6,Welcome to the Show,DAY6,2025-03-20,2025-11-26,97,6,"2025-03-26, 2025-04-02, 2025-04-16, 2025-04-18, 2025-09-07, 2025-11-21","1, 1, 11, 1, 140, 1"
+Lilith (feat. SUGA of BTS) (Diablo IV Anthem) - Halsey & SUGA,Lilith (feat. SUGA of BTS) (Diablo IV Anthem),Halsey & SUGA,2024-06-07,2024-09-13,80,6,"2024-07-22, 2024-07-31, 2024-08-07, 2024-08-25, 2024-08-30, 2024-09-13","2, 2, 1, 1, 3, 10"
+You & Me - JENNIE,You & Me,JENNIE,2024-10-08,2025-01-13,63,6,"2024-11-21, 2024-12-15, 2024-12-28, 2025-01-04, 2025-01-06, 2025-01-12","1, 17, 12, 1, 1, 3"
+Nest - Lim Young Woong,Nest,Lim Young Woong,2024-11-12,2025-01-11,36,6,"2024-12-11, 2024-12-13, 2024-12-19, 2024-12-30, 2025-01-03, 2025-01-11","1, 1, 3, 10, 3, 7"
+double take - Dhruv,double take,Dhruv,2025-09-22,2025-11-08,31,6,"2025-09-25, 2025-09-30, 2025-10-03, 2025-10-19, 2025-10-24, 2025-10-31","2, 3, 1, 9, 1, 1"
+My You - Jung Kook,My You,Jung Kook,2024-07-05,2024-10-01,30,6,"2024-07-27, 2024-07-31, 2024-08-03, 2024-08-07, 2024-08-10, 2024-09-30","4, 2, 1, 2, 1, 49"
+Talk Saxy - RIIZE,Talk Saxy,RIIZE,2024-10-29,2025-01-27,22,6,"2024-11-07, 2024-12-14, 2025-01-10, 2025-01-12, 2025-01-17, 2025-01-27","2, 33, 25, 1, 3, 5"
+Polaroid - Lim Young Woong,Polaroid,Lim Young Woong,2024-05-18,2025-10-11,507,5,"2025-03-02, 2025-03-15, 2025-03-26, 2025-07-12, 2025-08-14","1, 1, 1, 1, 1"
+Love Me Again - V,Love Me Again,V,2024-08-13,2025-11-27,467,5,"2025-03-02, 2025-03-15, 2025-03-26, 2025-07-12, 2025-08-14","1, 1, 1, 1, 1"
+Seven (feat. Latto) (Explicit Ver.) - Jung Kook,Seven (feat. Latto) (Explicit Ver.),Jung Kook,2024-11-04,2025-11-27,384,5,"2025-03-02, 2025-03-15, 2025-03-26, 2025-07-12, 2025-08-14","1, 1, 1, 1, 1"
+Standing Next to You - Jung Kook,Standing Next to You,Jung Kook,2024-11-04,2025-11-27,383,5,"2025-03-03, 2025-03-15, 2025-03-26, 2025-07-12, 2025-08-14","2, 1, 1, 1, 1"
+Closer Than This - Jimin,Closer Than This,Jimin,2024-12-24,2025-11-27,334,5,"2025-03-02, 2025-03-15, 2025-03-26, 2025-07-12, 2025-08-14","1, 1, 1, 1, 1"
+3D (feat. Jack Harlow) - Jung Kook,3D (feat. Jack Harlow),Jung Kook,2025-01-20,2025-11-27,307,5,"2025-03-02, 2025-03-15, 2025-03-26, 2025-07-12, 2025-08-14","1, 1, 1, 1, 1"
+Armageddon - aespa,Armageddon,aespa,2025-05-29,2025-11-27,178,5,"2025-07-12, 2025-08-14, 2025-09-22, 2025-10-07, 2025-11-21","1, 1, 1, 1, 1"
+Haegeum - Agust D,Haegeum,Agust D,2024-05-18,2024-10-25,149,5,"2024-06-16, 2024-06-21, 2024-10-16, 2024-10-20, 2024-10-23","3, 2, 3, 3, 1"
+plot twist - TWS,plot twist,TWS,2025-01-28,2025-06-17,130,5,"2025-03-02, 2025-03-15, 2025-03-26, 2025-06-02, 2025-06-17","1, 1, 1, 7, 1"
+Lovely Touch - Lim Young Woong,Lovely Touch,Lim Young Woong,2024-05-23,2025-02-20,119,5,"2024-06-03, 2024-06-05, 2024-10-22, 2025-02-11, 2025-02-19","9, 1, 137, 1, 7"
+Father - Lim Young Woong,Father,Lim Young Woong,2024-10-26,2025-02-27,106,5,"2024-10-30, 2024-11-01, 2025-01-22, 2025-02-19, 2025-02-26","3, 1, 1, 9, 5"
+Who (Rock Remix) - Jimin,Who (Rock Remix),Jimin,2025-07-25,2025-11-27,101,5,"2025-08-14, 2025-08-28, 2025-09-13, 2025-09-21, 2025-11-06","1, 3, 13, 7, 1"
+Who (Acoustic Remix) - Jimin,Who (Acoustic Remix),Jimin,2025-07-25,2025-11-27,97,5,"2025-08-14, 2025-08-28, 2025-09-21, 2025-09-30, 2025-11-06","1, 3, 23, 1, 1"
+Fate - (G)I-DLE,Fate,(G)I-DLE,2025-02-21,2025-06-04,96,5,"2025-03-02, 2025-03-15, 2025-03-26, 2025-05-27, 2025-06-01","1, 1, 1, 1, 4"
+Small girl (feat. D.O.) - Lee Young Ji,Small girl (feat. D.O.),Lee Young Ji,2025-06-22,2025-10-01,93,5,"2025-07-12, 2025-08-14, 2025-09-02, 2025-09-09, 2025-09-13","1, 1, 1, 5, 1"
+Beautiful Things - Benson Boone,Beautiful Things,Benson Boone,2025-02-01,2025-04-30,84,5,"2025-02-03, 2025-02-05, 2025-03-02, 2025-03-15, 2025-03-26","1, 1, 1, 1, 1"
+Please Please Please - Sabrina Carpenter,Please Please Please,Sabrina Carpenter,2025-06-10,2025-09-01,56,5,"2025-07-12, 2025-07-23, 2025-08-01, 2025-08-15, 2025-08-24","1, 1, 7, 12, 7"
+Not Like Us - Kendrick Lamar,Not Like Us,Kendrick Lamar,2025-05-09,2025-08-03,53,5,"2025-05-30, 2025-06-22, 2025-07-07, 2025-07-12, 2025-07-31","4, 20, 7, 1, 2"
+NEMONEMO - YENA,NEMONEMO,YENA,2025-10-09,2025-11-12,24,5,"2025-10-22, 2025-10-25, 2025-11-01, 2025-11-05, 2025-11-12","1, 1, 3, 1, 5"
+Sunflower - Spider-Man: Into the Spider-Verse - Post Malone,Sunflower - Spider-Man: Into the Spider-Verse,Post Malone,2024-06-23,2024-09-24,23,5,"2024-07-07, 2024-07-10, 2024-07-16, 2024-07-21, 2024-09-24","2, 1, 1, 4, 63"
+Like Crazy (English Version) - Jimin,Like Crazy (English Version),Jimin,2024-05-18,2025-07-23,428,4,"2025-03-02, 2025-03-15, 2025-03-26, 2025-07-12","1, 1, 1, 1"
+Set Me Free Pt.2 - Jimin,Set Me Free Pt.2,Jimin,2024-05-18,2025-07-23,428,4,"2025-03-02, 2025-03-15, 2025-03-26, 2025-07-12","1, 1, 1, 1"
+Rainy Days - V,Rainy Days,V,2024-08-13,2025-03-24,206,4,"2025-03-02, 2025-03-11, 2025-03-15, 2025-03-24","9, 1, 1, 7"
+Warmth - Lim Young Woong,Warmth,Lim Young Woong,2025-05-08,2025-11-24,195,4,"2025-07-12, 2025-08-14, 2025-10-29, 2025-11-01","1, 1, 2, 2"
+Yes or No - Jung Kook,Yes or No,Jung Kook,2024-11-04,2025-05-08,179,4,"2025-03-02, 2025-03-15, 2025-03-26, 2025-05-06","1, 1, 1, 4"
+Dreamers [Music from the FIFA World Cup Qatar 2022 Official Soundtrack] - Jung Kook & BTS,Dreamers [Music from the FIFA World Cup Qatar 2022 Official Soundtrack],Jung Kook & BTS,2024-05-18,2024-11-20,161,4,"2024-10-16, 2024-10-20, 2024-10-26, 2024-11-20","2, 1, 3, 20"
+To. X - TAEYEON,To. X,TAEYEON,2024-11-28,2025-05-07,154,4,"2025-03-02, 2025-03-15, 2025-03-26, 2025-05-05","1, 1, 1, 4"
+Smart - LE SSERAFIM,Smart,LE SSERAFIM,2025-02-21,2025-06-20,116,4,"2025-03-02, 2025-03-15, 2025-03-26, 2025-05-27","1, 1, 1, 1"
+HERO - Lim Young Woong,HERO,Lim Young Woong,2024-10-23,2025-02-20,111,4,"2024-10-27, 2024-11-05, 2025-02-11, 2025-02-18","3, 1, 1, 5"
+Love 119 - RIIZE,Love 119,RIIZE,2025-01-07,2025-04-27,106,4,"2025-03-02, 2025-03-15, 2025-03-26, 2025-04-23","1, 1, 1, 2"
+Boom Boom Bass - RIIZE,Boom Boom Bass,RIIZE,2025-06-18,2025-09-24,95,4,"2025-07-12, 2025-08-14, 2025-09-20, 2025-09-23","1, 1, 1, 1"
+"Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long) - Trailer Version - Fast & Furious: The Fast Saga & Jimin & BTS","Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long) - Trailer Version",Fast & Furious: The Fast Saga & Jimin & BTS,2024-05-18,2025-01-03,87,4,"2024-09-14, 2024-10-27, 2024-10-31, 2024-12-28","101, 40, 2, 1"
+Love wins all - IU,Love wins all,IU,2025-01-26,2025-04-22,83,4,"2025-03-02, 2025-03-15, 2025-03-26, 2025-04-21","1, 1, 1, 1"
+Sudden Shower - ECLIPSE,Sudden Shower,ECLIPSE,2025-05-09,2025-08-02,77,4,"2025-05-15, 2025-05-21, 2025-05-28, 2025-07-12","4, 2, 2, 1"
+Bam Yang Gang - BIBI,Bam Yang Gang,BIBI,2025-02-15,2025-05-07,75,4,"2025-03-02, 2025-03-15, 2025-03-26, 2025-05-05","1, 1, 1, 4"
+Blue - V,Blue,V,2024-09-10,2025-01-11,67,4,"2024-12-31, 2025-01-03, 2025-01-07, 2025-01-11","53, 2, 1, 1"
+Melt Down - DAY6,Melt Down,DAY6,2025-09-04,2025-11-13,66,4,"2025-10-06, 2025-10-08, 2025-11-01, 2025-11-10","1, 1, 1, 2"
+Lucky Girl Syndrome - ILLIT,Lucky Girl Syndrome,ILLIT,2025-03-28,2025-06-13,57,4,"2025-04-23, 2025-05-27, 2025-06-02, 2025-06-12","16, 1, 2, 2"
+Bling-Bang-Bang-Born - Creepy Nuts,Bling-Bang-Bang-Born,Creepy Nuts,2025-01-24,2025-03-30,43,4,"2025-02-14, 2025-03-13, 2025-03-15, 2025-03-26","1, 20, 1, 1"
+Memories - RIIZE,Memories,RIIZE,2024-08-31,2024-10-19,43,4,"2024-09-05, 2024-09-18, 2024-09-25, 2024-10-02","2, 1, 1, 3"
+Shot Glass of Tears - Jung Kook,Shot Glass of Tears,Jung Kook,2024-11-04,2024-12-29,43,4,"2024-12-12, 2024-12-15, 2024-12-19, 2024-12-29","1, 1, 2, 9"
+Dangerously - Charlie Puth,Dangerously,Charlie Puth,2024-05-18,2024-07-01,28,4,"2024-06-04, 2024-06-13, 2024-06-16, 2024-07-01","1, 4, 2, 10"
+With you - Jimin & HA SUNG WOON,With you,Jimin & HA SUNG WOON,2024-05-20,2025-01-23,22,4,"2024-06-08, 2024-06-28, 2024-07-05, 2025-01-23","18, 3, 6, 200"
+MANIAC - VIVIZ,MANIAC,VIVIZ,2025-01-31,2025-02-28,13,4,"2025-02-03, 2025-02-09, 2025-02-14, 2025-02-28","1, 4, 1, 10"
+Teddy Bear - STAYC,Teddy Bear,STAYC,2024-05-18,2024-06-05,13,4,"2024-05-21, 2024-05-29, 2024-05-31, 2024-06-05","2, 1, 1, 2"
+I Don’t Think That I Like Her - Charlie Puth,I Don’t Think That I Like Her,Charlie Puth,2024-05-29,2024-07-01,8,4,"2024-06-16, 2024-06-18, 2024-06-25, 2024-07-01","17, 1, 4, 4"
+Supernova - aespa,Supernova,aespa,2025-05-15,2025-11-27,194,3,"2025-07-12, 2025-08-14, 2025-09-22","1, 1, 1"
+Home - Lim Young Woong,Home,Lim Young Woong,2025-05-08,2025-11-22,191,3,"2025-07-12, 2025-08-14, 2025-11-01","1, 1, 6"
+BIRDS OF A FEATHER - Billie Eilish,BIRDS OF A FEATHER,Billie Eilish,2025-05-21,2025-11-24,185,3,"2025-05-28, 2025-07-12, 2025-08-14","1, 1, 1"
+MILLION DOLLAR BABY - Tommy Richman,MILLION DOLLAR BABY,Tommy Richman,2025-05-09,2025-09-07,118,3,"2025-07-12, 2025-08-14, 2025-09-07","1, 1, 2"
+アイドル - YOASOBI,アイドル,YOASOBI,2024-05-18,2024-10-06,118,3,"2024-09-03, 2024-09-22, 2024-10-06","2, 18, 4"
+Sticky - KISS OF LIFE,Sticky,KISS OF LIFE,2025-07-02,2025-10-21,109,3,"2025-07-12, 2025-08-14, 2025-10-21","1, 1, 1"
+踊り子 - Vaundy,踊り子,Vaundy,2025-06-30,2025-09-26,85,3,"2025-07-12, 2025-08-14, 2025-09-25","1, 1, 2"
+wherever u r (ft. V of BTS) - UMI & V,wherever u r (ft. V of BTS),UMI & V,2024-12-31,2025-03-16,69,3,"2025-03-02, 2025-03-09, 2025-03-16","1, 1, 5"
+"Angel Pt. 2 (feat. Jimin of BTS, Charlie Puth and Muni Long) - Fast & Furious: The Fast Saga & Jimin & BTS","Angel Pt. 2 (feat. Jimin of BTS, Charlie Puth and Muni Long)",Fast & Furious: The Fast Saga & Jimin & BTS,2024-06-17,2024-11-04,65,3,"2024-07-31, 2024-08-24, 2024-11-03","2, 4, 70"
+Cupid - Twin Ver. - FIFTY FIFTY,Cupid - Twin Ver.,FIFTY FIFTY,2024-05-18,2024-08-06,65,3,"2024-07-07, 2024-07-26, 2024-08-06","2, 4, 10"
+Baddie - IVE,Baddie,IVE,2024-10-14,2025-01-22,62,3,"2024-12-09, 2025-01-05, 2025-01-22","7, 17, 15"
+we can't be friends (wait for your love) - Ariana Grande,we can't be friends (wait for your love),Ariana Grande,2025-03-11,2025-05-11,59,3,"2025-03-15, 2025-03-26, 2025-05-08","1, 1, 1"
+"Yes or No (Feat. 허윤진 of LE SSERAFIM, Crush) - GroovyRoom & HUH YUNJIN","Yes or No (Feat. 허윤진 of LE SSERAFIM, Crush)",GroovyRoom & HUH YUNJIN,2025-02-01,2025-03-27,52,3,"2025-03-02, 2025-03-15, 2025-03-26","1, 1, 1"
+SOS - KANGDANIEL,SOS,KANGDANIEL,2024-07-07,2024-09-02,49,3,"2024-08-12, 2024-08-23, 2024-08-31","1, 1, 7"
+FLOWER - JISOO,FLOWER,JISOO,2024-05-18,2024-07-24,44,3,"2024-06-23, 2024-06-29, 2024-07-23","1, 1, 22"
+Kill Bill - SZA,Kill Bill,SZA,2024-05-18,2024-07-04,43,3,"2024-05-21, 2024-06-11, 2024-06-23","1, 1, 3"
+"yes, and? - Ariana Grande","yes, and?",Ariana Grande,2025-01-14,2025-03-19,43,3,"2025-02-15, 2025-03-10, 2025-03-15","2, 19, 1"
+The Planet - BTS,The Planet,BTS,2024-05-18,2024-07-16,41,3,"2024-06-22, 2024-07-02, 2024-07-16","1, 7, 11"
+STUPID IN LOVE (feat. HUH YUNJIN of LE SSERAFIM) - MAX,STUPID IN LOVE (feat. HUH YUNJIN of LE SSERAFIM),MAX,2025-02-18,2025-04-20,31,3,"2025-03-06, 2025-03-23, 2025-03-26","15, 15, 1"
+My Starry Love - Lim Young Woong,My Starry Love,Lim Young Woong,2024-11-12,2025-01-11,30,3,"2024-12-13, 2025-01-03, 2025-01-11","4, 20, 7"
+Holssi - IU,Holssi,IU,2025-02-22,2025-03-26,29,3,"2025-03-02, 2025-03-15, 2025-03-26","1, 1, 2"
+Taste - Sabrina Carpenter,Taste,Sabrina Carpenter,2025-08-28,2025-09-29,25,3,"2025-09-20, 2025-09-25, 2025-09-28","3, 3, 2"
+Spring Snow - 10CM,Spring Snow,10CM,2025-05-17,2025-06-13,22,3,"2025-05-19, 2025-05-22, 2025-05-29","1, 2, 3"
+Dance The Night (From Barbie The Album) - Dua Lipa,Dance The Night (From Barbie The Album),Dua Lipa,2024-06-03,2024-08-11,18,3,"2024-06-09, 2024-07-26, 2024-07-30","5, 46, 1"
+Sugarcoat (NATTY Solo) - KISS OF LIFE,Sugarcoat (NATTY Solo),KISS OF LIFE,2024-08-22,2024-09-13,17,3,"2024-08-24, 2024-09-09, 2024-09-13","1, 2, 3"
+CARNIVAL - ¥$ & Kanye West & Ty Dolla $ign,CARNIVAL,¥$ & Kanye West & Ty Dolla $ign,2025-02-16,2025-03-20,14,3,"2025-03-06, 2025-03-08, 2025-03-15","12, 1, 6"
+Seven (feat. Latto) (Band Ver.) - Jung Kook & Latto,Seven (feat. Latto) (Band Ver.),Jung Kook & Latto,2024-07-19,2024-08-05,10,3,"2024-07-27, 2024-08-02, 2024-08-05","4, 2, 2"
+Loving You - Lim Young Woong,Loving You,Lim Young Woong,2024-11-17,2024-12-07,8,3,"2024-11-19, 2024-12-04, 2024-12-06","1, 11, 1"
+Candy (Feat. Zion.T) - Jay Park,Candy (Feat. Zion.T),Jay Park,2024-05-26,2024-06-09,7,3,"2024-05-31, 2024-06-05, 2024-06-09","2, 3, 3"
+Filter - BTS,Filter,BTS,2024-06-12,2025-04-07,7,3,"2024-06-14, 2024-06-21, 2025-04-06","1, 5, 287"
+Elevator - Lim Young Woong,Elevator,Lim Young Woong,2024-11-16,2024-12-08,6,3,"2024-11-18, 2024-11-22, 2024-12-08","1, 1, 15"
+LOVE DIVE - IVE,LOVE DIVE,IVE,2024-05-18,2024-06-19,6,3,"2024-05-21, 2024-05-29, 2024-06-19","1, 6, 20"
+Love Station - Lim Young Woong,Love Station,Lim Young Woong,2024-11-17,2024-12-05,5,3,"2024-11-20, 2024-11-23, 2024-12-05","2, 1, 11"
+Magnetic - ILLIT,Magnetic,ILLIT,2025-03-27,2025-11-27,244,2,"2025-07-12, 2025-08-14","1, 1"
+How Sweet - NewJeans,How Sweet,NewJeans,2025-05-26,2025-11-27,184,2,"2025-07-12, 2025-08-14","1, 1"
+Espresso - Sabrina Carpenter,Espresso,Sabrina Carpenter,2025-04-17,2025-10-11,176,2,"2025-07-12, 2025-08-14","1, 1"
+Supernatural - NewJeans,Supernatural,NewJeans,2025-06-22,2025-11-27,157,2,"2025-07-12, 2025-08-14","1, 1"
+People Pt.2 (feat. IU) - Agust D,People Pt.2 (feat. IU),Agust D,2024-05-18,2024-11-04,144,2,"2024-06-07, 2024-07-02","3, 24"
+Queencard - (G)I-DLE,Queencard,(G)I-DLE,2024-05-18,2024-09-29,119,2,"2024-09-24, 2024-09-29","12, 4"
+GODS - League of Legends & NewJeans,GODS,League of Legends & NewJeans,2024-10-06,2025-01-31,111,2,"2025-01-25, 2025-01-31","2, 5"
+Kitsch - IVE,Kitsch,IVE,2024-05-18,2024-08-19,92,2,"2024-08-17, 2024-08-19","1, 1"
+Never Let Go - Jung Kook,Never Let Go,Jung Kook,2025-06-09,2025-09-06,88,2,"2025-07-12, 2025-08-14","1, 1"
+SPOT! - ZICO & JENNIE,SPOT!,ZICO & JENNIE,2025-05-01,2025-10-22,87,2,"2025-07-12, 2025-10-21","1, 87"
+Super - SEVENTEEN,Super,SEVENTEEN,2024-05-18,2024-08-08,79,2,"2024-07-07, 2024-07-31","2, 2"
+Let's Say Goodbye - Parc Jae Jung,Let's Say Goodbye,Parc Jae Jung,2024-07-14,2024-10-01,78,2,"2024-07-30, 2024-09-14","1, 1"
+Midas Touch - KISS OF LIFE,Midas Touch,KISS OF LIFE,2025-04-05,2025-06-29,78,2,"2025-06-19, 2025-06-29","1, 7"
+Touch - KATSEYE,Touch,KATSEYE,2025-08-26,2025-11-15,78,2,"2025-09-05, 2025-11-15","1, 3"
+Right Now - NewJeans,Right Now,NewJeans,2025-06-22,2025-08-19,57,2,"2025-07-12, 2025-08-14","1, 1"
+Fry’s Dream - AKMU,Fry’s Dream,AKMU,2024-08-23,2024-10-26,53,2,"2024-09-05, 2024-09-12","10, 2"
+Fortnight (feat. Post Malone) - Taylor Swift,Fortnight (feat. Post Malone),Taylor Swift,2025-04-21,2025-06-06,43,2,"2025-05-28, 2025-06-02","1, 3"
+Pump Up The Volume! - PLAVE,Pump Up The Volume!,PLAVE,2025-08-22,2025-11-02,40,2,"2025-09-17, 2025-10-24","1, 32"
+vampire - Olivia Rodrigo,vampire,Olivia Rodrigo,2024-07-02,2024-08-12,38,2,"2024-07-25, 2024-07-31","2, 2"
+"How can I love the heartbreak, you're the one I love - AKMU","How can I love the heartbreak, you're the one I love",AKMU,2025-10-15,2025-11-18,33,2,"2025-10-24, 2025-11-18","1, 1"
+Better Things - aespa,Better Things,aespa,2024-08-19,2024-10-06,32,2,"2024-09-09, 2024-10-02","2, 15"
+AK47 - Men's Tear & 뷰티풀너드,AK47,Men's Tear & 뷰티풀너드,2025-03-02,2025-03-27,24,2,"2025-03-15, 2025-03-26","1, 1"
+Sweet Night - V,Sweet Night,V,2024-08-13,2024-09-08,23,2,"2024-09-04, 2024-09-07","3, 1"
+Klaxon - (G)I-DLE,Klaxon,(G)I-DLE,2025-07-22,2025-08-16,22,2,"2025-07-27, 2025-08-15","2, 2"
+Swan Song - LE SSERAFIM,Swan Song,LE SSERAFIM,2025-02-21,2025-03-16,22,2,"2025-03-02, 2025-03-15","1, 1"
+Love Me Like This - NMIXX,Love Me Like This,NMIXX,2024-05-18,2024-06-07,18,2,"2024-06-05, 2024-06-07","2, 1"
+Lovin On Me - Jack Harlow,Lovin On Me,Jack Harlow,2025-01-14,2025-01-31,15,2,"2025-01-18, 2025-01-24","2, 1"
+Vancouver - BIG Naughty,Vancouver,BIG Naughty,2024-06-05,2024-09-22,9,2,"2024-06-12, 2024-09-22","1, 100"
+Seven (feat. Latto) (Alesso Remix) - Jung Kook & Latto,Seven (feat. Latto) (Alesso Remix),Jung Kook & Latto,2024-08-26,2024-09-08,8,2,"2024-09-05, 2024-09-07","5, 1"
+CROOKED - G-DRAGON,CROOKED,G-DRAGON,2025-11-02,2025-11-27,7,2,"2025-11-09, 2025-11-27","3, 16"
+Drowning - WOODZ,Drowning,WOODZ,2025-11-13,2025-11-22,7,2,"2025-11-19, 2025-11-22","1, 2"
+In Bloom - ZEROBASEONE,In Bloom,ZEROBASEONE,2024-07-13,2024-07-22,6,2,"2024-07-17, 2024-07-22","2, 2"
+Intro: Singularity - BTS,Intro: Singularity,BTS,2024-08-18,2024-08-28,6,2,"2024-08-21, 2024-08-27","2, 3"
+Like Crazy (Instrumental) - Jimin,Like Crazy (Instrumental),Jimin,2024-06-11,2024-06-22,6,2,"2024-06-14, 2024-06-21","1, 5"
+Don't Look Back in Anger - Remastered - Oasis,Don't Look Back in Anger - Remastered,Oasis,2025-08-29,2025-09-04,5,2,"2025-09-02, 2025-09-04","1, 1"
+Take Two - BTS,Take Two,BTS,2024-06-11,2024-11-17,155,1,2024-11-07,5
+Be Mine - Jimin,Be Mine,Jimin,2025-07-21,2025-11-27,129,1,2025-08-14,1
+Interlude : Showtime - Jimin,Interlude : Showtime,Jimin,2025-07-21,2025-11-27,129,1,2025-08-14,1
+Rebirth (Intro) - Jimin,Rebirth (Intro),Jimin,2025-07-21,2025-11-27,129,1,2025-08-14,1
+Slow Dance (feat. Sofia Carson) - Jimin,Slow Dance (feat. Sofia Carson),Jimin,2025-07-21,2025-11-27,129,1,2025-08-14,1
+Smeraldo Garden Marching Band (feat. Loco) - Jimin,Smeraldo Garden Marching Band (feat. Loco),Jimin,2025-07-21,2025-11-27,129,1,2025-08-14,1
+Who - Jimin,Who,Jimin,2025-07-21,2025-11-27,129,1,2025-08-14,1
+Spicy - aespa,Spicy,aespa,2024-05-18,2024-09-16,120,1,2024-09-15,2
+Seven (feat. Latto) (Explicit Ver.) - Jung Kook & Latto,Seven (feat. Latto) (Explicit Ver.),Jung Kook & Latto,2024-07-16,2024-11-03,109,1,2024-07-19,2
+Still With You - Jung Kook,Still With You,Jung Kook,2024-07-05,2024-10-23,109,1,2024-10-23,2
+"Steal The Show - From ""Elemental"" - Lauv","Steal The Show - From ""Elemental""",Lauv,2024-06-19,2024-10-03,105,1,2024-09-09,2
+HAPPY - DAY6,HAPPY,DAY6,2025-03-21,2025-11-27,92,1,2025-08-29,160
+SHEESH - BABYMONSTER,SHEESH,BABYMONSTER,2025-04-03,2025-07-05,91,1,2025-07-04,3
+Cool With You - NewJeans,Cool With You,NewJeans,2024-07-23,2024-10-19,86,1,2024-10-19,3
+CRAZY - LE SSERAFIM,CRAZY,LE SSERAFIM,2025-09-01,2025-11-23,83,1,2025-11-22,1
+Love Lee - AKMU,Love Lee,AKMU,2024-08-22,2024-11-12,82,1,2024-11-12,1
+Christmas Tree - V,Christmas Tree,V,2024-07-02,2024-09-19,72,1,2024-09-18,8
+For Us - V,For Us,V,2024-09-10,2025-01-09,71,1,2024-12-31,51
+Slow Dancing (Piano Ver.) - V,Slow Dancing (Piano Ver.),V,2024-09-10,2024-12-31,60,1,2024-12-31,53
+DASH - NMIXX,DASH,NMIXX,2025-01-17,2025-03-12,54,1,2025-03-02,1
+Cupid - FIFTY FIFTY,Cupid,FIFTY FIFTY,2024-05-18,2024-07-12,52,1,2024-07-09,4
+ANTIFRAGILE - LE SSERAFIM,ANTIFRAGILE,LE SSERAFIM,2024-05-18,2024-07-18,50,1,2024-07-17,12
+MEOW - MEOVV,MEOW,MEOVV,2025-09-08,2025-10-26,48,1,2025-10-25,1
+Thirsty - aespa,Thirsty,aespa,2024-05-18,2024-07-04,47,1,2024-07-04,1
+Girls Never Die - tripleS,Girls Never Die,tripleS,2025-05-11,2025-06-27,46,1,2025-06-24,2
+Impossible - RIIZE,Impossible,RIIZE,2025-04-20,2025-06-21,40,1,2025-06-18,23
+Love You With All My Heart - Crush,Love You With All My Heart,Crush,2025-04-17,2025-05-25,34,1,2025-04-23,5
+ABCD - NAYEON,ABCD,NAYEON,2025-06-17,2025-07-13,26,1,2025-07-12,1
+Cosmic - Red Velvet,Cosmic,Red Velvet,2025-06-26,2025-07-21,25,1,2025-07-12,1
+Trust in me - Lim Young Woong,Trust in me,Lim Young Woong,2024-11-13,2024-12-08,25,1,2024-11-29,1
+Baggy Jeans - NCT,Baggy Jeans,NCT,2024-08-30,2024-09-28,24,1,2024-09-28,6
+Bite Me - ENHYPEN,Bite Me,ENHYPEN,2024-05-24,2024-06-18,23,1,2024-06-14,3
+"If I’m S, Can You Be My N? - TWS","If I’m S, Can You Be My N?",TWS,2025-07-02,2025-07-23,21,1,2025-07-12,1
+Nice Guy - BOYNEXTDOOR,Nice Guy,BOYNEXTDOOR,2025-09-11,2025-10-04,20,1,2025-10-04,4
+Seven (feat. Latto) (Instrumental) - Jung Kook & Latto,Seven (feat. Latto) (Instrumental),Jung Kook & Latto,2024-07-16,2024-08-06,20,1,2024-07-19,2
+Smeraldo Garden Marching Band (feat. Loco) - Jimin & Loco,Smeraldo Garden Marching Band (feat. Loco),Jimin & Loco,2025-06-30,2025-07-20,20,1,2025-07-12,1
+But Sometimes - BOYNEXTDOOR,But Sometimes,BOYNEXTDOOR,2024-09-06,2024-09-27,19,1,2024-09-27,3
+Rockstar - LISA,Rockstar,LISA,2025-06-30,2025-07-19,19,1,2025-07-12,1
+Fighting (Feat. Lee Young Ji) - BSS,Fighting (Feat. Lee Young Ji),BSS,2024-05-18,2024-06-07,18,1,2024-06-06,3
+Chk Chk Boom - Stray Kids,Chk Chk Boom,Stray Kids,2025-07-21,2025-08-09,17,1,2025-08-07,3
+Shopper - IU,Shopper,IU,2025-02-22,2025-03-10,16,1,2025-03-02,1
+Super Lady - (G)I-DLE,Super Lady,(G)I-DLE,2025-02-01,2025-02-16,14,1,2025-02-15,2
+MAESTRO - SEVENTEEN,MAESTRO,SEVENTEEN,2025-05-01,2025-05-16,13,1,2025-05-15,3
+Stay Alive (Prod. SUGA of BTS) - Jung Kook,Stay Alive (Prod. SUGA of BTS),Jung Kook,2024-07-07,2024-08-12,13,1,2024-08-12,24
+All I Want for Christmas Is You - Mariah Carey,All I Want for Christmas Is You,Mariah Carey,2024-12-11,2024-12-27,12,1,2024-12-17,5
+Broken Melodies - NCT DREAM,Broken Melodies,NCT DREAM,2024-06-21,2024-07-21,12,1,2024-07-20,19
+WAY 4 LUV - PLAVE,WAY 4 LUV,PLAVE,2025-08-23,2025-10-27,12,1,2025-10-25,54
+3D (feat. Jack Harlow) (Instrumental) - Jung Kook & Jack Harlow,3D (feat. Jack Harlow) (Instrumental),Jung Kook & Jack Harlow,2024-09-30,2024-10-13,11,1,2024-10-09,3
+I will come to you - Jin,I will come to you,Jin,2025-11-17,2025-11-27,10,1,2025-11-23,1
+NIGHT DANCER - BIG Naughty Remix - imase & BIG Naughty,NIGHT DANCER - BIG Naughty Remix,imase & BIG Naughty,2024-05-21,2024-06-09,10,1,2024-06-03,10
+Snowman - Sia,Snowman,Sia,2024-12-17,2024-12-27,10,1,2024-12-21,1
+FIELD TRIP - ¥$ & Kanye West & Ty Dolla $ign,FIELD TRIP,¥$ & Kanye West & Ty Dolla $ign,2025-08-04,2025-08-25,9,1,2025-08-24,13
+Fact Check - NCT 127,Fact Check,NCT 127,2024-10-07,2024-10-20,9,1,2024-10-19,5
+I Had Some Help (Feat. Morgan Wallen) - Post Malone & Morgan Wallen,I Had Some Help (Feat. Morgan Wallen),Post Malone & Morgan Wallen,2025-05-12,2025-05-23,9,1,2025-05-23,3
+Young Man - HYUKOH & 落日飛車 Sunset Rollercoaster,Young Man,HYUKOH & 落日飛車 Sunset Rollercoaster,2025-07-05,2025-07-14,9,1,2025-07-12,1
+greedy - Tate McRae,greedy,Tate McRae,2024-10-04,2024-10-13,9,1,2024-10-10,1
+Dare to Love (feat. BIG Naughty) - B.I,Dare to Love (feat. BIG Naughty),B.I,2024-06-25,2024-07-04,8,1,2024-07-04,2
+Guess featuring Billie Eilish - Charli xcx & Billie Eilish,Guess featuring Billie Eilish,Charli xcx & Billie Eilish,2025-08-07,2025-08-16,8,1,2025-08-14,2
+Last Christmas - Single Version - Wham!,Last Christmas - Single Version,Wham!,2024-12-17,2024-12-27,8,1,2024-12-23,3
+Little Light - DOYOUNG,Little Light,DOYOUNG,2025-04-25,2025-05-04,8,1,2025-05-01,2
+Saturn - SZA,Saturn,SZA,2025-03-08,2025-03-16,8,1,2025-03-15,1
+I’ll See You There Tomorrow - TOMORROW X TOGETHER,I’ll See You There Tomorrow,TOMORROW X TOGETHER,2025-04-18,2025-04-26,7,1,2025-04-23,2
+3D (Justin Timberlake Remix) - Jung Kook & Justin Timberlake,3D (Justin Timberlake Remix),Jung Kook & Justin Timberlake,2024-11-25,2024-12-05,6,1,2024-12-03,5
+Big Dawgs - Hanumankind & Kalmi,Big Dawgs,Hanumankind & Kalmi,2025-08-25,2025-08-31,6,1,2025-08-29,1
+Come back to me - RM,Come back to me,RM,2025-05-12,2025-05-26,6,1,2025-05-26,9
+K-POP - Travis Scott & Bad Bunny & The Weeknd,K-POP,Travis Scott & Bad Bunny & The Weeknd,2024-07-23,2024-07-30,6,1,2024-07-29,2
+Seven (feat. Latto) (Summer Mix) - Jung Kook & Latto,Seven (feat. Latto) (Summer Mix),Jung Kook & Latto,2024-07-19,2024-07-28,6,1,2024-07-27,4
+Discord - QWER,Discord,QWER,2024-12-10,2024-12-16,5,1,2024-12-15,2
+Jealousyvalhalla - YANGHONGWON,Jealousyvalhalla,YANGHONGWON,2025-05-19,2025-05-26,5,1,2025-05-26,3
+Steady - NCT WISH,Steady,NCT WISH,2025-09-26,2025-10-02,5,1,2025-10-02,2
+That's What I Like - Bruno Mars,That's What I Like,Bruno Mars,2024-06-19,2025-11-12,5,1,2025-11-11,507
+Why? - PLAVE,Why?,PLAVE,2025-08-26,2025-09-03,5,1,2025-09-02,4
+bye - Ariana Grande,bye,Ariana Grande,2025-03-10,2025-03-15,5,1,2025-03-15,1
+CHIHIRO - Billie Eilish,CHIHIRO,Billie Eilish,2025-05-19,2025-05-25,4,1,2025-05-23,3
+Click Like (Prod. Crush) (Feat. Paul Blanco) - Various Artists,Click Like (Prod. Crush) (Feat. Paul Blanco),Various Artists,2024-09-07,2024-09-13,4,1,2024-09-13,3
+Cupido - Engel Montaz & Kuv507 & Latinnites Music,Cupido,Engel Montaz & Kuv507 & Latinnites Music,2025-01-06,2025-01-10,4,1,2025-01-10,1
+Like That - Future & Metro Boomin,Like That,Future & Metro Boomin,2025-03-27,2025-03-31,4,1,2025-03-29,1
+Pleasure Shop - KEY,Pleasure Shop,KEY,2025-09-25,2025-09-29,4,1,2025-09-29,1
+Lost and Found - KingLee & Lil' Flip,Lost and Found,KingLee & Lil' Flip,2024-12-28,2025-01-17,3,1,2025-01-16,18
+No Tomorrow - Spotify Singles - Various Artists,No Tomorrow - Spotify Singles,Various Artists,2025-04-08,2025-04-11,3,1,2025-04-10,1
+You & Me (Coachella ver.) - JENNIE,You & Me (Coachella ver.),JENNIE,2024-10-07,2024-10-11,3,1,2024-10-10,2
+euphoria - Kendrick Lamar,euphoria,Kendrick Lamar,2025-05-03,2025-05-06,3,1,2025-05-06,1
+All Or Nothing - J Money & KingLee,All Or Nothing,J Money & KingLee,2024-12-22,2025-01-17,2,1,2025-01-17,25
+Armageddon - aespa & Grimes & Flava D,Armageddon,aespa & Grimes & Flava D,2025-09-21,2025-10-06,2,1,2025-10-06,14
+Don't Look Back In Anger - Remastered - Oasis,Don't Look Back In Anger - Remastered,Oasis,2025-09-01,2025-09-03,2,1,2025-09-03,1
+Mars - D.O.,Mars,D.O.,2025-05-12,2025-05-18,2,1,2025-05-18,5
+Tick-Tack - ILLIT,Tick-Tack,ILLIT,2025-11-24,2025-11-27,2,1,2025-11-27,2
+녹아내려요 Melt Down - DAY6,녹아내려요 Melt Down,DAY6,2025-10-05,2025-10-07,2,1,2025-10-07,1
+"무제(無題) (Untitled, 2014) - G-DRAGON","무제(無題) (Untitled, 2014)",G-DRAGON,2025-11-05,2025-11-27,2,1,2025-11-27,21
+예뻤어 - DAY6,예뻤어,DAY6,2025-10-05,2025-10-07,2,1,2025-10-07,1
+한 페이지가 될 수 있게 - DAY6,한 페이지가 될 수 있게,DAY6,2025-10-05,2025-10-07,2,1,2025-10-07,1
+"Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long) - Fast & Furious: The Fast Saga & Jimin & BTS","Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long)",Fast & Furious: The Fast Saga & Jimin & BTS,2024-05-21,2024-12-23,217,0,,
+I AM - IVE,I AM,IVE,2024-05-18,2024-10-23,159,0,,
+"Eve, Psyche & The Bluebeard’s wife - LE SSERAFIM","Eve, Psyche & The Bluebeard’s wife",LE SSERAFIM,2024-05-26,2024-10-03,131,0,,
+3D (feat. Jack Harlow) - Jung Kook & Jack Harlow,3D (feat. Jack Harlow),Jung Kook & Jack Harlow,2024-09-30,2025-01-19,112,0,,
+Supersonic - fromis_9,Supersonic,fromis_9,2025-08-15,2025-11-27,105,0,,
+Die With A Smile - Lady Gaga & Bruno Mars,Die With A Smile,Lady Gaga & Bruno Mars,2025-08-17,2025-11-27,103,0,,
+UNFORGIVEN (feat. Nile Rodgers) - LE SSERAFIM,UNFORGIVEN (feat. Nile Rodgers),LE SSERAFIM,2024-05-18,2024-08-28,103,0,,
+Fast Forward - JEON SOMI,Fast Forward,JEON SOMI,2024-08-09,2024-10-23,76,0,,
+Paint The Town Red - Doja Cat,Paint The Town Red,Doja Cat,2024-08-31,2024-11-03,65,0,,
+My Name is Malguem - QWER,My Name is Malguem,QWER,2025-09-25,2025-11-27,64,0,,
+HEYA - IVE,HEYA,IVE,2025-05-01,2025-06-30,61,0,,
+Standing Next to You (Usher Remix) - Jung Kook & USHER,Standing Next to You (Usher Remix),Jung Kook & USHER,2024-12-02,2025-01-27,57,0,,
+Here With Me - d4vd,Here With Me,d4vd,2025-10-08,2025-11-26,50,0,,
+After LIKE - IVE,After LIKE,IVE,2024-05-18,2024-07-04,48,0,,
+NIGHT DANCER - imase,NIGHT DANCER,imase,2024-05-18,2024-07-04,48,0,,
+UP - KARINA Solo - aespa,UP - KARINA Solo,aespa,2025-10-11,2025-11-27,48,0,,
+Mantra - JENNIE,Mantra,JENNIE,2025-10-13,2025-11-27,46,0,,
+"Smoke (Prod. Dynamicduo, Padi) - Various Artists","Smoke (Prod. Dynamicduo, Padi)",Various Artists,2024-09-07,2024-10-22,46,0,,
+ASAP - NewJeans,ASAP,NewJeans,2024-07-23,2024-09-04,44,0,,
+APT. - ROSÉ & Bruno Mars,APT.,ROSÉ & Bruno Mars,2025-10-20,2025-11-27,39,0,,
+Either Way - IVE,Either Way,IVE,2024-09-27,2024-11-03,38,0,,
+Get Up - NewJeans,Get Up,NewJeans,2024-07-23,2024-08-29,38,0,,
+Cherish (My Love) - ILLIT,Cherish (My Love),ILLIT,2025-10-23,2025-11-27,36,0,,
+Whiplash - aespa,Whiplash,aespa,2025-10-23,2025-11-27,36,0,,
+Wife - (G)I-DLE,Wife,(G)I-DLE,2025-01-24,2025-02-28,36,0,,
+愛を伝えたいだとか - Aimyon,愛を伝えたいだとか,Aimyon,2024-05-18,2024-06-20,34,0,,
+Igloo - KISS OF LIFE,Igloo,KISS OF LIFE,2025-10-26,2025-11-27,33,0,,
+Siren - RIIZE,Siren,RIIZE,2025-04-05,2025-05-06,32,0,,
+S-Class - Stray Kids,S-Class,Stray Kids,2024-06-04,2024-07-04,31,0,,
+LUNCH - Billie Eilish,LUNCH,Billie Eilish,2025-05-19,2025-06-16,29,0,,
+New Woman (feat. ROSALÍA) - LISA & ROSALÍA,New Woman (feat. ROSALÍA),LISA & ROSALÍA,2025-08-17,2025-09-14,29,0,,
+DIE 4 YOU - DEAN,DIE 4 YOU,DEAN,2024-11-19,2024-12-16,28,0,,
+Deja Vu - TOMORROW X TOGETHER,Deja Vu,TOMORROW X TOGETHER,2025-04-03,2025-04-30,28,0,,
+Off The Record - IVE,Off The Record,IVE,2024-10-07,2024-11-03,28,0,,
+POWER - G-DRAGON,POWER,G-DRAGON,2025-11-02,2025-11-27,26,0,,
+Allergy - (G)I-DLE,Allergy,(G)I-DLE,2024-05-18,2024-06-11,25,0,,
+"Earth, Wind & Fire - BOYNEXTDOOR","Earth, Wind & Fire",BOYNEXTDOOR,2025-04-17,2025-05-11,25,0,,
+I'll Be There - Jin,I'll Be There,Jin,2025-10-27,2025-11-20,25,0,,
+DRIP - BABYMONSTER,DRIP,BABYMONSTER,2025-11-04,2025-11-27,24,0,,
+See that? - NMIXX,See that?,NMIXX,2025-08-20,2025-09-12,24,0,,
+Summer (Feat. BE’O) - Paul Blanco,Summer (Feat. BE’O),Paul Blanco,2024-08-05,2024-08-27,23,0,,
+TOO MUCH - The Kid LAROI & Jung Kook & Central Cee,TOO MUCH,The Kid LAROI & Jung Kook & Central Cee,2024-10-21,2024-11-10,21,0,,
+3D (Alternate Ver.) - Jung Kook & Jack Harlow,3D (Alternate Ver.),Jung Kook & Jack Harlow,2024-10-02,2024-10-21,20,0,,
+Chill Kill - Red Velvet,Chill Kill,Red Velvet,2024-11-15,2024-12-01,17,0,,
+Midnight Fiction - ILLIT,Midnight Fiction,ILLIT,2025-03-28,2025-04-13,17,0,,
+Vancouver 2 - BIG Naughty,Vancouver 2,BIG Naughty,2024-09-20,2024-10-06,17,0,,
+"LOVE, MONEY, FAME (feat. DJ Khaled) - SEVENTEEN","LOVE, MONEY, FAME (feat. DJ Khaled)",SEVENTEEN,2025-10-16,2025-10-30,15,0,,
+My World - ILLIT,My World,ILLIT,2025-03-28,2025-04-11,15,0,,
+Neva Play (feat. RM of BTS) - Megan Thee Stallion & RM,Neva Play (feat. RM of BTS),Megan Thee Stallion & RM,2025-09-08,2025-09-22,15,0,,
+Roller Coaster - NMIXX,Roller Coaster,NMIXX,2024-07-08,2024-07-22,15,0,,
+Standing Next to You (USHER Remix) - Jung Kook & USHER,Standing Next to You (USHER Remix),Jung Kook & USHER,2025-02-11,2025-02-25,15,0,,
+The First Snow - EXO,The First Snow,EXO,2024-12-17,2024-12-31,15,0,,
+i wonder... (with Jung Kook of BTS) - j-hope,i wonder... (with Jung Kook of BTS),j-hope,2025-03-31,2025-04-13,14,0,,
+"Yes or No (Feat. HUH YUNJIN of LE SSERAFIM, Crush) - GroovyRoom","Yes or No (Feat. HUH YUNJIN of LE SSERAFIM, Crush)",GroovyRoom,2025-01-19,2025-01-31,13,0,,
+Dangerous - BOYNEXTDOOR,Dangerous,BOYNEXTDOOR,2025-09-04,2025-09-15,12,0,,
+Scenery - V,Scenery,V,2024-08-29,2024-09-09,12,0,,
+Snow Flower (feat. Peakboy) - V,Snow Flower (feat. Peakboy),V,2024-08-29,2024-09-09,12,0,,
+Timeless (with Playboi Carti) - The Weeknd & Playboi Carti,Timeless (with Playboi Carti),The Weeknd & Playboi Carti,2025-09-29,2025-10-10,12,0,,
+Winter Bear - V,Winter Bear,V,2024-08-29,2024-09-09,12,0,,
+Another Level - Jin,Another Level,Jin,2025-11-17,2025-11-27,11,0,,
+Falling - Jin,Falling,Jin,2025-11-17,2025-11-27,11,0,,
+God of Music - SEVENTEEN,God of Music,SEVENTEEN,2024-10-24,2024-11-03,11,0,,
+Heart on the Window (with WENDY) - Jin,Heart on the Window (with WENDY),Jin,2025-11-17,2025-11-27,11,0,,
+Runaway - Kanye West,Runaway,Kanye West,2025-08-25,2025-09-04,11,0,,
+Running Wild - Jin,Running Wild,Jin,2025-11-17,2025-11-27,11,0,,
+Santa Tell Me - Ariana Grande,Santa Tell Me,Ariana Grande,2024-12-17,2024-12-27,11,0,,
+Sexy In The Air - TAEMIN,Sexy In The Air,TAEMIN,2025-08-20,2025-08-30,11,0,,
+Smoothie - NCT DREAM,Smoothie,NCT DREAM,2025-03-27,2025-04-06,11,0,,
+青い珊瑚礁 - Seiko Matsuda,青い珊瑚礁,Seiko Matsuda,2025-06-30,2025-07-10,11,0,,
+Shoong! (feat. LISA of BLACKPINK) - TAEYANG,Shoong! (feat. LISA of BLACKPINK),TAEYANG,2024-05-18,2024-05-27,10,0,,
+Supernova - Japanese Version - KANGDANIEL,Supernova - Japanese Version,KANGDANIEL,2024-08-12,2024-08-21,10,0,,
+Travel Again (Feat. Cautious Clay) - Beenzino,Travel Again (Feat. Cautious Clay),Beenzino,2024-07-05,2024-07-14,10,0,,
+Walk - NCT 127,Walk,NCT 127,2025-07-17,2025-07-26,10,0,,
+Moonlit Floor (Kiss Me) - LISA,Moonlit Floor (Kiss Me),LISA,2025-10-26,2025-11-03,9,0,,
+1-800-hot-n-fun - LE SSERAFIM,1-800-hot-n-fun,LE SSERAFIM,2025-09-01,2025-09-08,8,0,,
+Every Moment With You - JAESSBEE,Every Moment With You,JAESSBEE,2025-11-14,2025-11-21,8,0,,
+FRI(END)S (Instrumental) - V,FRI(END)S (Instrumental),V,2025-03-17,2025-03-24,8,0,,
+FRI(END)S (Slowed Down) - V,FRI(END)S (Slowed Down),V,2025-03-17,2025-03-24,8,0,,
+FRI(END)S (Sped Up) - V,FRI(END)S (Sped Up),V,2025-03-17,2025-03-24,8,0,,
+Monet - Beenzino,Monet,Beenzino,2024-07-05,2024-07-12,8,0,,
+Moonlit Floor - LISA,Moonlit Floor,LISA,2025-10-18,2025-10-25,8,0,,
+Super Tuna - Jin,Super Tuna,Jin,2025-10-27,2025-11-03,8,0,,
+Welcome To MY World (feat. nævis) - aespa,Welcome To MY World (feat. nævis),aespa,2024-05-18,2024-05-25,8,0,,
+Dancing In The Flames - The Weeknd,Dancing In The Flames,The Weeknd,2025-09-15,2025-09-21,7,0,,
+FOREVER - BABYMONSTER,FOREVER,BABYMONSTER,2025-07-12,2025-07-18,7,0,,
+ISTJ - NCT DREAM,ISTJ,NCT DREAM,2024-07-19,2024-07-25,7,0,,
+I’ll Be There - Jin,I’ll Be There,Jin,2025-11-21,2025-11-27,7,0,,
+LOST! - RM,LOST!,RM,2025-05-26,2025-06-01,7,0,,
+JEALOUSYVALHALLA - YANGHONGWON,JEALOUSYVALHALLA,YANGHONGWON,2025-05-27,2025-06-01,6,0,,
+NEURON (with Gaeko & YOON MIRAE) - j-hope,NEURON (with Gaeko & YOON MIRAE),j-hope,2025-03-31,2025-04-05,6,0,,
+Supernatural (Instrumental) - NewJeans,Supernatural (Instrumental),NewJeans,2025-06-22,2025-06-27,6,0,,
+The Astronaut - Jin,The Astronaut,Jin,2025-10-27,2025-11-01,6,0,,
+990 (Feat. Kim Ximya) - Beenzino,990 (Feat. Kim Ximya),Beenzino,2024-07-05,2024-07-09,5,0,,
+"Boys Like Girls (Feat. Gist, Jayci yucca) - Leellamarz","Boys Like Girls (Feat. Gist, Jayci yucca)",Leellamarz,2024-10-27,2024-10-31,5,0,,
+Chasing That Feeling - TOMORROW X TOGETHER,Chasing That Feeling,TOMORROW X TOGETHER,2024-10-14,2024-10-18,5,0,,
+Coca Cola Red (Feat. oygli) - Beenzino,Coca Cola Red (Feat. oygli),Beenzino,2024-07-05,2024-07-09,5,0,,
+Down Bad - Taylor Swift,Down Bad,Taylor Swift,2025-04-21,2025-04-25,5,0,,
+How Sweet (Instrumental) - NewJeans,How Sweet (Instrumental),NewJeans,2025-05-26,2025-05-30,5,0,,
+LALALALA - Stray Kids,LALALALA,Stray Kids,2024-11-11,2024-11-15,5,0,,
+Set The Tone - aespa,Set The Tone,aespa,2025-05-29,2025-06-02,5,0,,
+She Smiled - DAY6,She Smiled,DAY6,2025-09-04,2025-09-08,5,0,,
+Skrr (feat. GISELLE) - HAON,Skrr (feat. GISELLE),HAON,2025-11-23,2025-11-27,5,0,,
+XO (Only If You Say Yes) - ENHYPEN,XO (Only If You Say Yes),ENHYPEN,2025-07-14,2025-07-18,5,0,,
+3D (feat. Jack Harlow) (MK Remix) - Jung Kook & Jack Harlow & MK,3D (feat. Jack Harlow) (MK Remix),Jung Kook & Jack Harlow & MK,2024-10-31,2024-11-03,4,0,,
+ENGLAND - YANGHONGWON,ENGLAND,YANGHONGWON,2025-05-26,2025-05-29,4,0,,
+HARD - SHINee,HARD,SHINee,2024-06-29,2024-07-02,4,0,,
+HOME SWEET HOME (feat. TAEYANG & DAESUNG) - G-DRAGON & TAEYANG & DAESUNG,HOME SWEET HOME (feat. TAEYANG & DAESUNG),G-DRAGON & TAEYANG & DAESUNG,2025-11-24,2025-11-27,4,0,,
+I stan U - IU,I stan U,IU,2025-02-22,2025-02-25,4,0,,
+In Bed/Makgulli - Beenzino,In Bed/Makgulli,Beenzino,2024-07-05,2024-07-08,4,0,,
+It's Beginning to Look a Lot like Christmas - Michael Bublé,It's Beginning to Look a Lot like Christmas,Michael Bublé,2024-12-24,2024-12-27,4,0,,
+Kill It - aespa,Kill It,aespa,2025-10-23,2025-10-26,4,0,,
+LOCKDOWN - ISEGYE IDOL,LOCKDOWN,ISEGYE IDOL,2024-06-25,2024-06-28,4,0,,
+Letter To Myself - TAEYEON,Letter To Myself,TAEYEON,2025-11-20,2025-11-23,4,0,,
+Like A Fool (Feat. Y2K92) - Beenzino,Like A Fool (Feat. Y2K92),Beenzino,2024-07-05,2024-07-08,4,0,,
+Pierrot - LE SSERAFIM,Pierrot,LE SSERAFIM,2025-09-01,2025-09-04,4,0,,
+Rockin' Around The Christmas Tree - Brenda Lee,Rockin' Around The Christmas Tree,Brenda Lee,2024-12-24,2024-12-27,4,0,,
+Seven (David Guetta Remix) - Jung Kook & Latto & David Guetta,Seven (David Guetta Remix),Jung Kook & Latto & David Guetta,2024-10-31,2024-11-03,4,0,,
+"Shh.. (Feat. HYEIN, WONSUN JOE & Special Narr. Patti Kim) - IU","Shh.. (Feat. HYEIN, WONSUN JOE & Special Narr. Patti Kim)",IU,2025-02-22,2025-02-25,4,0,,
+Underneath the Tree - Kelly Clarkson,Underneath the Tree,Kelly Clarkson,2024-12-24,2024-12-27,4,0,,
+V (Peace) (feat. AKMU) - Zion.T,V (Peace) (feat. AKMU),Zion.T,2024-12-13,2024-12-16,4,0,,
+We got so much - LE SSERAFIM,We got so much,LE SSERAFIM,2025-02-21,2025-02-24,4,0,,
+eternal sunshine - Ariana Grande,eternal sunshine,Ariana Grande,2025-03-10,2025-03-13,4,0,,
+number one girl - ROSÉ,number one girl,ROSÉ,2025-11-24,2025-11-27,4,0,,
+24YB (Intro) - YANGHONGWON,24YB (Intro),YANGHONGWON,2025-05-26,2025-05-28,3,0,,
+ALL RED - Playboi Carti,ALL RED,Playboi Carti,2025-09-15,2025-09-17,3,0,,
+"BY COLOR, WHITE COLOR (Feat. KOVV) - YANGHONGWON","BY COLOR, WHITE COLOR (Feat. KOVV)",YANGHONGWON,2025-05-26,2025-05-28,3,0,,
+Boat - george,Boat,george,2024-06-25,2024-06-27,3,0,,
+CARNIVAL - Kanye West & Ty Dolla $ign,CARNIVAL,Kanye West & Ty Dolla $ign,2025-02-13,2025-02-15,3,0,,
+Cheers to youth - SEVENTEEN,Cheers to youth,SEVENTEEN,2025-05-01,2025-05-03,3,0,,
+Christmas Without You - Ava Max,Christmas Without You,Ava Max,2024-12-25,2024-12-27,3,0,,
+FE!N (feat. Playboi Carti) - Travis Scott,FE!N (feat. Playboi Carti),Travis Scott,2024-08-01,2024-08-03,3,0,,
+FE!N - Travis Scott,FE!N,Travis Scott,2024-07-29,2024-07-31,3,0,,
+FRIED - ¥$ & Kanye West & Ty Dolla $ign,FRIED,¥$ & Kanye West & Ty Dolla $ign,2025-08-04,2025-08-06,3,0,,
+GOSLOW - YANGHONGWON,GOSLOW,YANGHONGWON,2025-05-26,2025-05-28,3,0,,
+Jingle Bell Rock - Bobby Helms,Jingle Bell Rock,Bobby Helms,2024-12-25,2024-12-27,3,0,,
+KIDDING - ISEGYE IDOL,KIDDING,ISEGYE IDOL,2024-08-20,2024-08-22,3,0,,
+Lemon - Beenzino,Lemon,Beenzino,2024-07-05,2024-07-07,3,0,,
+Let It Snow! Let It Snow! Let It Snow! - Dean Martin,Let It Snow! Let It Snow! Let It Snow!,Dean Martin,2024-12-25,2024-12-27,3,0,,
+Licorice - aespa,Licorice,aespa,2025-05-30,2025-06-01,3,0,,
+Mistletoe - Justin Bieber,Mistletoe,Justin Bieber,2024-12-25,2024-12-27,3,0,,
+Monster - DAY6,Monster,DAY6,2025-09-04,2025-09-06,3,0,,
+Mourning - Post Malone,Mourning,Post Malone,2024-05-21,2024-05-23,3,0,,
+PARANOIA - HEARTSTEEL & League of Legends & BAEKHYUN,PARANOIA,HEARTSTEEL & League of Legends & BAEKHYUN,2024-10-26,2024-10-28,3,0,,
+PROMOTION - ¥$ & Kanye West & Ty Dolla $ign,PROMOTION,¥$ & Kanye West & Ty Dolla $ign,2025-08-04,2025-08-06,3,0,,
+SLIDE - ¥$ & Kanye West & Ty Dolla $ign,SLIDE,¥$ & Kanye West & Ty Dolla $ign,2025-08-04,2025-08-06,3,0,,
+SPOT! - ZICO,SPOT!,ZICO,2025-04-28,2025-04-30,3,0,,
+Sandman - Beenzino,Sandman,Beenzino,2024-07-05,2024-07-07,3,0,,
+Shxtty Game - DAY6,Shxtty Game,DAY6,2025-09-04,2025-09-06,3,0,,
+Somebody - D.O.,Somebody,D.O.,2024-10-04,2024-10-06,3,0,,
+Stay With Me (Feat. Skinny Brown) - ASH ISLAND,Stay With Me (Feat. Skinny Brown),ASH ISLAND,2024-12-20,2024-12-22,3,0,,
+The Tortured Poets Department - Taylor Swift,The Tortured Poets Department,Taylor Swift,2025-04-21,2025-04-23,3,0,,
+Well…? - YANGHONGWON,Well…?,YANGHONGWON,2025-05-26,2025-05-28,3,0,,
+luther (with sza) - Kendrick Lamar,luther (with sza),Kendrick Lamar,2025-11-25,2025-11-27,3,0,,
+squabble up - Kendrick Lamar,squabble up,Kendrick Lamar,2025-11-25,2025-11-27,3,0,,
+3D (feat. Jack Harlow) (Alternate Ver.) - Jung Kook & Jack Harlow,3D (feat. Jack Harlow) (Alternate Ver.),Jung Kook & Jack Harlow,2024-09-30,2024-10-01,2,0,,
+Accendio - IVE,Accendio,IVE,2025-05-24,2025-05-25,2,0,,
+As You Wish - WJSN,As You Wish,WJSN,2025-01-01,2025-01-02,2,0,,
+BACK TO ME - Kanye West & Ty Dolla $ign,BACK TO ME,Kanye West & Ty Dolla $ign,2025-02-13,2025-02-14,2,0,,
+But Daddy I Love Him - Taylor Swift,But Daddy I Love Him,Taylor Swift,2025-04-21,2025-04-22,2,0,,
+Camp - Beenzino,Camp,Beenzino,2024-07-05,2024-07-06,2,0,,
+Circles - Post Malone,Circles,Post Malone,2024-11-05,2024-11-06,2,0,,
+Combo - RIIZE,Combo,RIIZE,2025-09-05,2025-09-06,2,0,,
+Cream Soda - EXO,Cream Soda,EXO,2024-07-13,2024-07-14,2,0,,
+"Crime (Feat. Bek Hyunjin, 250) - Beenzino","Crime (Feat. Bek Hyunjin, 250)",Beenzino,2024-07-05,2024-07-06,2,0,,
+"Darling, I (feat. Teezo Touchdown) - Tyler, The Creator","Darling, I (feat. Teezo Touchdown)","Tyler, The Creator",2025-10-30,2025-10-31,2,0,,
+Deseydin Anlardım - EDES,Deseydin Anlardım,EDES,2024-09-28,2024-09-29,2,0,,
+Ditto (250 Remix) - NewJeans,Ditto (250 Remix),NewJeans,2024-12-21,2024-12-22,2,0,,
+Dope As (Interlude) - Beenzino,Dope As (Interlude),Beenzino,2024-07-05,2024-07-06,2,0,,
+"Flights, Not Feelings - aespa","Flights, Not Feelings",aespa,2025-10-23,2025-10-24,2,0,,
+Good Bones - LE SSERAFIM,Good Bones,LE SSERAFIM,2025-02-21,2025-02-22,2,0,,
+Gym - Beenzino,Gym,Beenzino,2024-07-05,2024-07-06,2,0,,
+HYAENA - Travis Scott,HYAENA,Travis Scott,2024-07-29,2024-07-30,2,0,,
+High Note - KingLee & Code G,High Note,KingLee & Code G,2025-01-16,2025-01-17,2,0,,
+Horizon - TAEMIN,Horizon,TAEMIN,2025-08-22,2025-08-23,2,0,,
+It's the Most Wonderful Time of the Year - Andy Williams,It's the Most Wonderful Time of the Year,Andy Williams,2024-12-25,2024-12-26,2,0,,
+Let off steam - Leellamarz & YANGHONGWON,Let off steam,Leellamarz & YANGHONGWON,2025-02-21,2025-02-22,2,0,,
+Live My Life - aespa,Live My Life,aespa,2025-05-30,2025-05-31,2,0,,
+MELTDOWN - Travis Scott,MELTDOWN,Travis Scott,2024-07-29,2024-07-30,2,0,,
+MODERN JAM - Travis Scott,MODERN JAM,Travis Scott,2024-07-29,2024-07-30,2,0,,
+MY EYES - Travis Scott,MY EYES,Travis Scott,2024-07-29,2024-07-30,2,0,,
+Mine - aespa,Mine,aespa,2025-05-30,2025-05-31,2,0,,
+My Boy Only Breaks His Favorite Toys - Taylor Swift,My Boy Only Breaks His Favorite Toys,Taylor Swift,2025-04-21,2025-04-22,2,0,,
+"Noid - Tyler, The Creator",Noid,"Tyler, The Creator",2025-10-30,2025-10-31,2,0,,
+OMG (FRNK Remix) - NewJeans,OMG (FRNK Remix),NewJeans,2024-12-21,2024-12-22,2,0,,
+PALISADE - YANGHONGWON,PALISADE,YANGHONGWON,2025-05-26,2025-05-27,2,0,,
+ROLEX - YANGHONGWON,ROLEX,YANGHONGWON,2025-01-20,2025-01-21,2,0,,
+Radio - Beenzino,Radio,Beenzino,2024-07-05,2024-07-06,2,0,,
+Right Now (Instrumental) - NewJeans,Right Now (Instrumental),NewJeans,2025-06-22,2025-06-23,2,0,,
+SAHARA - YANGHONGWON,SAHARA,YANGHONGWON,2025-05-26,2025-05-27,2,0,,
+SOS (Prod. Marshmello) - SEVENTEEN,SOS (Prod. Marshmello),SEVENTEEN,2024-10-24,2024-10-25,2,0,,
+STARS - Kanye West & Ty Dolla $ign,STARS,Kanye West & Ty Dolla $ign,2025-02-13,2025-02-14,2,0,,
+Seven (feat. Latto) (Explicit Ver.) - Jung Kook & Latto & BTS,Seven (feat. Latto) (Explicit Ver.),Jung Kook & Latto & BTS,2024-07-17,2024-07-18,2,0,,
+Seven (feat. Latto) (Instrumental) - Jung Kook & Latto & BTS,Seven (feat. Latto) (Instrumental),Jung Kook & Latto & BTS,2024-07-17,2024-07-18,2,0,,
+Seven (feat. Latto) (Lofi Mix) - Jung Kook & Latto,Seven (feat. Latto) (Lofi Mix),Jung Kook & Latto,2024-07-27,2024-07-28,2,0,,
+Slime You Out (feat. SZA) - Drake & SZA,Slime You Out (feat. SZA),Drake & SZA,2024-09-17,2024-09-18,2,0,,
+Slow Dancing (FRNK Remix) - V,Slow Dancing (FRNK Remix),V,2024-10-24,2024-10-25,2,0,,
+"So Long, London - Taylor Swift","So Long, London",Taylor Swift,2025-04-21,2025-04-22,2,0,,
+"St. Chroma (feat. Daniel Caesar) - Tyler, The Creator",St. Chroma (feat. Daniel Caesar),"Tyler, The Creator",2025-10-30,2025-10-31,2,0,,
+Stinky Kiss (Intro) - Beenzino,Stinky Kiss (Intro),Beenzino,2024-07-05,2024-07-06,2,0,,
+THANK GOD - Travis Scott,THANK GOD,Travis Scott,2024-07-29,2024-07-30,2,0,,
+Trippy (Feat. Lance Skiiiwalker) - Beenzino,Trippy (Feat. Lance Skiiiwalker),Beenzino,2024-07-05,2024-07-06,2,0,,
+Water - Tyla,Water,Tyla,2024-10-24,2024-10-25,2,0,,
+i like the way you kiss me - Artemas,i like the way you kiss me,Artemas,2025-04-17,2025-04-18,2,0,,
+地球儀 - Spinning Globe - Kenshi Yonezu,地球儀 - Spinning Globe,Kenshi Yonezu,2024-10-30,2024-10-31,2,0,,
+A Yo (Feat. Beenzino) - E SENS,A Yo (Feat. Beenzino),E SENS,2024-07-15,2024-07-15,1,0,,
+"Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long) - Fast & Furious: The Fast Saga","Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long)",Fast & Furious: The Fast Saga,2024-05-20,2024-05-20,1,0,,
+Attention (250 Remix) - NewJeans,Attention (250 Remix),NewJeans,2024-12-22,2024-12-22,1,0,,
+BAHAMA - aespa,BAHAMA,aespa,2025-05-30,2025-05-30,1,0,,
+BURN - Kanye West & Ty Dolla $ign,BURN,Kanye West & Ty Dolla $ign,2025-02-13,2025-02-13,1,0,,
+Bubble - STAYC,Bubble,STAYC,2024-08-18,2024-08-18,1,0,,
+Bubble Gum (Instrumental) - NewJeans,Bubble Gum (Instrumental),NewJeans,2025-05-26,2025-05-26,1,0,,
+Chasing Lightning - LE SSERAFIM,Chasing Lightning,LE SSERAFIM,2025-09-01,2025-09-01,1,0,,
+Chemical - Post Malone,Chemical,Post Malone,2024-07-29,2024-07-29,1,0,,
+Citi+ - YANGHONGWON,Citi+,YANGHONGWON,2024-12-20,2024-12-20,1,0,,
+Crazier - LE SSERAFIM,Crazier,LE SSERAFIM,2025-09-01,2025-09-01,1,0,,
+DELRESTO (ECHOES) - Travis Scott,DELRESTO (ECHOES),Travis Scott,2024-07-29,2024-07-29,1,0,,
+DO IT - Kanye West & Ty Dolla $ign,DO IT,Kanye West & Ty Dolla $ign,2025-02-13,2025-02-13,1,0,,
+Demon - $ecrecy,Demon,$ecrecy,2024-09-28,2024-09-28,1,0,,
+Dopamine - GISELLE Solo - aespa,Dopamine - GISELLE Solo,aespa,2025-10-12,2025-10-12,1,0,,
+Even for a moment - Sung Si Kyung & Naul,Even for a moment,Sung Si Kyung & Naul,2024-10-21,2024-10-21,1,0,,
+Event Horizon - Younha,Event Horizon,Younha,2024-05-29,2024-05-29,1,0,,
+FUK SUMN - Kanye West & Ty Dolla $ign,FUK SUMN,Kanye West & Ty Dolla $ign,2025-02-13,2025-02-13,1,0,,
+Flooded The Face - Lil Uzi Vert,Flooded The Face,Lil Uzi Vert,2024-07-02,2024-07-02,1,0,,
+Flowers - aespa,Flowers,aespa,2025-10-24,2025-10-24,1,0,,
+G.O.A.T - TAEMIN,G.O.A.T,TAEMIN,2025-08-22,2025-08-22,1,0,,
+GOD'S COUNTRY - Travis Scott,GOD'S COUNTRY,Travis Scott,2024-07-29,2024-07-29,1,0,,
+Get The Hell Out - DAY6,Get The Hell Out,DAY6,2025-03-21,2025-03-21,1,0,,
+Gonna Be A Rock - BOYNEXTDOOR,Gonna Be A Rock,BOYNEXTDOOR,2025-09-12,2025-09-12,1,0,,
+HELIOT EMIL - CHANGMO,HELIOT EMIL,CHANGMO,2025-02-02,2025-02-02,1,0,,
+Heavy Is the Crown - Linkin Park,Heavy Is the Crown,Linkin Park,2025-09-27,2025-09-27,1,0,,
+Hell yea - Leellamarz & YANGHONGWON,Hell yea,Leellamarz & YANGHONGWON,2025-02-21,2025-02-21,1,0,,
+Honestly - RIIZE,Honestly,RIIZE,2025-05-01,2025-05-01,1,0,,
+I Like Me Better - Lauv,I Like Me Better,Lauv,2025-03-03,2025-03-03,1,0,,
+ITEM - Stray Kids,ITEM,Stray Kids,2024-06-04,2024-06-04,1,0,,
+Jeogeumtong - E SENS,Jeogeumtong,E SENS,2024-07-15,2024-07-15,1,0,,
+KEYS TO MY LIFE - Kanye West & Ty Dolla $ign,KEYS TO MY LIFE,Kanye West & Ty Dolla $ign,2025-02-13,2025-02-13,1,0,,
+LALALI - SEVENTEEN,LALALI,SEVENTEEN,2025-05-02,2025-05-02,1,0,,
+Let Me In - EXO,Let Me In,EXO,2024-06-15,2024-06-15,1,0,,
+Lie - BTS,Lie,BTS,2025-01-23,2025-01-23,1,0,,
+Lose My Breath (Feat. Charlie Puth) - Stray Kids & Charlie Puth,Lose My Breath (Feat. Charlie Puth),Stray Kids & Charlie Puth,2025-05-12,2025-05-12,1,0,,
+Lose My Breath - Stray Kids,Lose My Breath,Stray Kids,2025-05-13,2025-05-13,1,0,,
+Melt Away - TAEYEON,Melt Away,TAEYEON,2024-11-29,2024-11-29,1,0,,
+No Boss (Feat. Dok2) - E SENS,No Boss (Feat. Dok2),E SENS,2024-07-15,2024-07-15,1,0,,
+On the street (Feat. ASH ISLAND) - Leellamarz,On the street (Feat. ASH ISLAND),Leellamarz,2024-08-16,2024-08-16,1,0,,
+One Kiss - RIIZE,One Kiss,RIIZE,2025-05-01,2025-05-01,1,0,,
+Overdrive - Post Malone,Overdrive,Post Malone,2024-07-16,2024-07-16,1,0,,
+PAID - Kanye West & Ty Dolla $ign,PAID,Kanye West & Ty Dolla $ign,2025-02-13,2025-02-13,1,0,,
+Pink Hoodie - aespa,Pink Hoodie,aespa,2025-10-24,2025-10-24,1,0,,
+Popcorn - D.O.,Popcorn,D.O.,2025-05-05,2025-05-05,1,0,,
+Popular (with Playboi Carti & Madonna) - The Weeknd & Playboi Carti & Madonna,Popular (with Playboi Carti & Madonna),The Weeknd & Playboi Carti & Madonna,2024-06-04,2024-06-04,1,0,,
+Push Ups - Drake,Push Ups,Drake,2025-04-23,2025-04-23,1,0,,
+"Rah Tah Tah - Tyler, The Creator",Rah Tah Tah,"Tyler, The Creator",2025-10-31,2025-10-31,1,0,,
+Rumble - KingLee,Rumble,KingLee,2024-12-22,2024-12-22,1,0,,
+SIRENS - Travis Scott,SIRENS,Travis Scott,2024-07-29,2024-07-29,1,0,,
+Salty & Sweet - aespa,Salty & Sweet,aespa,2024-05-18,2024-05-18,1,0,,
+Say Less - TAEMIN,Say Less,TAEMIN,2025-08-22,2025-08-22,1,0,,
+Serendipity - Full Length Edition - BTS,Serendipity - Full Length Edition,BTS,2025-01-23,2025-01-23,1,0,,
+Snooze (Acoustic) (feat. Justin Bieber) - SZA & Justin Bieber,Snooze (Acoustic) (feat. Justin Bieber),SZA & Justin Bieber,2024-09-17,2024-09-17,1,0,,
+Soñar (Breaker) - NMIXX,Soñar (Breaker),NMIXX,2025-01-18,2025-01-18,1,0,,
+Spark - WINTER Solo - aespa,Spark - WINTER Solo,aespa,2025-10-12,2025-10-12,1,0,,
+Spicy - aespa & Nitepunk,Spicy,aespa & Nitepunk,2024-09-17,2024-09-17,1,0,,
+Standing Next to You - Sped Up - Remix - Beat Record,Standing Next to You - Sped Up - Remix,Beat Record,2025-03-02,2025-03-02,1,0,,
+Super Bowl - Stray Kids,Super Bowl,Stray Kids,2024-06-04,2024-06-04,1,0,,
+Supernova - aespa & Grimes & Flava D,Supernova,aespa & Grimes & Flava D,2025-09-21,2025-09-21,1,0,,
+Sweet Venom - ENHYPEN,Sweet Venom,ENHYPEN,2024-11-18,2024-11-18,1,0,,
+TALKING - Kanye West & Ty Dolla $ign,TALKING,Kanye West & Ty Dolla $ign,2025-02-13,2025-02-13,1,0,,
+TIME MOVING SLOW - ¥$ & Kanye West & Ty Dolla $ign,TIME MOVING SLOW,¥$ & Kanye West & Ty Dolla $ign,2025-08-04,2025-08-04,1,0,,
+TOO MUCH - The Kid LAROI,TOO MUCH,The Kid LAROI,2024-11-11,2024-11-11,1,0,,
+TOPLINE (Feat. Tiger JK) - Stray Kids,TOPLINE (Feat. Tiger JK),Stray Kids,2024-06-04,2024-06-04,1,0,,
+The Astronaut - JIN,The Astronaut,JIN,2025-06-09,2025-06-09,1,0,,
+The Breakup Anthem - Ebstar,The Breakup Anthem,Ebstar,2025-06-16,2025-06-16,1,0,,
+The Unknown Sea - TAEMIN,The Unknown Sea,TAEMIN,2025-08-22,2025-08-22,1,0,,
+Type Shit - Future & Metro Boomin,Type Shit,Future & Metro Boomin,2025-03-24,2025-03-24,1,0,,
+UNLOVE (prod. HONNE) - Zion.T,UNLOVE (prod. HONNE),Zion.T,2024-12-09,2024-12-09,1,0,,
+What The Hell - E SENS,What The Hell,E SENS,2024-07-15,2024-07-15,1,0,,
+don't wanna break up again - Ariana Grande,don't wanna break up again,Ariana Grande,2025-03-13,2025-03-13,1,0,,
+i don't know (with HUH YUNJIN of LE SSERAFIM) - j-hope,i don't know (with HUH YUNJIN of LE SSERAFIM),j-hope,2025-03-31,2025-03-31,1,0,,
+lock / unlock (with benny blanco & Nile Rodgers) - j-hope,lock / unlock (with benny blanco & Nile Rodgers),j-hope,2025-03-31,2025-03-31,1,0,,
+wacced out murals - Kendrick Lamar,wacced out murals,Kendrick Lamar,2025-11-25,2025-11-25,1,0,,
